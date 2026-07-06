@@ -1,0 +1,20 @@
+
+/*hecho con chatgpt no tenia ganas de pensar */
+
+button{
+
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+button:hover{
+
+    background-color: darkblue;
+
+}
