@@ -1,0 +1,1 @@
+Este es un repositorio que utilizo para aprender a usar github, por eso la mayoria de los codigos estan hechos con chatgpt y solo son botones o cosas simples.esto mismo que estoy escribiendo es para probar como funciona esta parte
